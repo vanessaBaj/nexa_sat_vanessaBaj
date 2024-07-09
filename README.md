@@ -1,2 +1,3 @@
 # nexa_sat_vanessaBaj
 Telecom Growth Strategies: Unlocking Customer Lifetime Value Through Smart Segmentation
+This project involved a deep dive into analyzing customer lifetime value segmentation at NexaSat, utilizing SQL to uncover actionable insights. This hands-on experience enabled me to identify up-selling and cross-selling opportunities within the telecom industry, leveraging data-driven strategies to maximize revenue potential and enhance customer engagement. My role was instrumental in utilizing advanced SQL techniques to analyze extensive customer data, contributing significantly to strategic decision-making processes at NexaSat.
